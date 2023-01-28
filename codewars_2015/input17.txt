@@ -1,0 +1,9 @@
+4
+1.13 USD
+0.74 GBP
+1.05 CHF
+7.08 CNY
+5.00 USD in CHF
+2.50 GBP in CNY
+2.00 USD in EUR
+.
